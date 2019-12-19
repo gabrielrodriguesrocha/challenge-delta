@@ -1,4 +1,4 @@
-CREATE DATABASE `packages`
+CREATE DATABASE `packages`;
 
 CREATE TABLE `offer` (
   `Id` int(11) NOT NULL AUTO_INCREMENT,
